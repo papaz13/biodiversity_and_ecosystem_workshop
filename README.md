@@ -30,9 +30,9 @@ biodiversity_workshop/
 ├── resources.md            # Recursos adicionales
 └── _config.yml             # Configuración de GitHub Pages
 ```
-:construction: Under Construction :construction:
+<!-- :construction: Under Construction :construction:
 
-:construction: Everything below this line is under construction and not final :construction:
+:construction: Everything below this line is under construction and not final :construction: -->
 
 <!-- ## Configuration
 
