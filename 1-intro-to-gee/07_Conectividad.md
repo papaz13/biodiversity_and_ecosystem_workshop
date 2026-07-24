@@ -245,3 +245,7 @@ El corredor se vectoriza (`rasterio.features.shapes`) y se agrega al mapa como u
 # Recurso
 [Global Safety Net](https://www.globalsafetynet.app/viewer/)
 
+# Ejercicio adcional de conectividad 
+Nestor - Parques Naturales Colombia
+[https://drive.google.com/file/d/1JjPfz546feFvKz8xCxiikRddgglMjfSM/view?usp=sharing](https://drive.google.com/file/d/1JjPfz546feFvKz8xCxiikRddgglMjfSM/view?usp=sharing)
+
