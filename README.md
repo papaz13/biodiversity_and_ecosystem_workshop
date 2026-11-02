@@ -1,7 +1,7 @@
    <p align="center">
-     <img src="images/logos.png" width="400" alt="Logos de los socios">
+     <img src="images/logos.PNG" width="400" alt="Logos de los socios">
    </p>
-   
+
 # Regional Biodiversity Workshop
 
 Este repositorio tiene el contenido del taller **Regional Biodiversity Workshop**, incluyendo instrucciones paso a paso, materiales de apoyo y scripts de Google Earth Engine (GEE). Está configurado como un sitio web mediante `github-pages`. 
