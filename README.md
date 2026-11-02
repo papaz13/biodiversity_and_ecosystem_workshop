@@ -1,6 +1,6 @@
 # Regional Biodiversity Workshop
 
-Este repositorio tiene el contenido del taller **Regional Biodiversity Workshop**, incluyendo instrucciones paso a paso, materiales de apoyo y scripts de Google Earth Engine (GEE). Está configurado como un sitio web mediante `github-pages`.
+Este repositorio tiene el contenido del taller **Regional Biodiversity Workshop**, incluyendo instrucciones paso a paso, materiales de apoyo y scripts de Google Earth Engine (GEE). Está configurado como un sitio web mediante `github-pages`. 
 
 ## Contenido del taller
 
