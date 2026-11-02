@@ -25,10 +25,9 @@ Desarrollar las capacidades de actores locales y responsables de la toma de deci
 
 | Horario | Sesión | Presenta |
 |---------|--------|----------|
-| 13:00–14:00 | Ejercicio en Google Earth: Análisis de paisaje y detección de cambios | Paula |
-| 14:00–15:00 | Ejercicio guiado en Google Earth: Mapeo de cobertura del suelo y ecosistemas a lo largo del tiempo | Paula |
-| 15:00–15:30 | ☕ Pausa para el café | |
-| 15:30–16:30 | Práctica por país o paisaje con apoyo de los capacitadores. Integración de datos propios (datos de campo, shapefile) en Google Earth | |
+| 13:00–14:00 | Ejercicio en Google Earth: Análisis de paisaje y detección de cambios |
+| 14:00–15:00 | Ejercicio guiado en Google Earth: Mapeo de cobertura del suelo y ecosistemas a lo largo del tiempo | 
+| 15:30–16:30 | Práctica por país o paisaje con apoyo de los capacitadores. Integración de datos propios (datos de campo, shapefile) en Google Earth |
 
 ---
 
@@ -41,10 +40,9 @@ Desarrollar las capacidades de actores locales y responsables de la toma de deci
 
 | Horario | Sesión | Materiales |
 |---------|--------|------------|
-| 09:00–10:00 | Ejercicio introductorio de GEE: Búsqueda, carga, filtrado y visualización de imágenes | Scripts 0–3 |
-| 10:00–10:30 | ☕ Pausa para el café | |
-| 10:30–12:00 | Práctica por país o paisaje | `Merge`<br>`05_Representativeness_AP_Ecoregions`<br>`06_Stock_Carbon_Loss`<br>⭐ *Crédito extra:* Integridad ecosistémica en Google Earth Engine |
-| 12:00–14:00 | 🍽️ Almuerzo | |
+| 09:00–10:00 | Ejercicio introductorio de GEE: Búsqueda, carga, filtrado y visualización de imágenes | 
+| 10:30–12:00 | Práctica por país o paisaje <br>`05_Representativeness_AP_Ecoregions`<br>`06_Stock_Carbon_Loss`<br>*Crédito extra:* Integridad ecosistémica en Google Earth Engine |
+
 
 ## Repositorio
 [https://code.earthengine.google.com/?accept_repo=users/paulapaz1101/biodiversity_and_ecosystem_workshop](https://code.earthengine.google.com/?accept_repo=users/paulapaz1101/biodiversity_and_ecosystem_workshop)

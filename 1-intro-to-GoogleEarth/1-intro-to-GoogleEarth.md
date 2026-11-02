@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Introducción a GEE"
-permalink: /1-intro-to-gee
+title: "Introducción a GE"
+permalink: /1-intro-to-GoogleEarth
 has_children: true
 nav_order: 2
 ---
