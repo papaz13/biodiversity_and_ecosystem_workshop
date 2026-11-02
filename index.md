@@ -53,6 +53,6 @@ Desarrollar las capacidades de actores locales y responsables de la toma de deci
 [Scripts exploratorios para la Biodiversidad Regional en GEE](https://docs.google.com/presentation/d/1RsbimVSiEG6QwWCJ5zU3ipPkDqcdsSSk/edit?usp=sharing&ouid=102108997537890089824&rtpof=true&sd=true)
 
 ## Website taller
-[Matriz scripts de biodiversidad](https://docs.google.com/spreadsheets/d/1Aqy3D4K-hODrKs1q8t0R5WmYym1kR5in/edit?usp=sharing&ouid=102108997537890089824&rtpof=true&sd=true)
+[Website taller](https://docs.google.com/spreadsheets/d/1Aqy3D4K-hODrKs1q8t0R5WmYym1kR5in/edit?usp=sharing&ouid=102108997537890089824&rtpof=true&sd=true)
 
 
