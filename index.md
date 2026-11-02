@@ -16,15 +16,38 @@ Desarrollar las capacidades de actores locales y responsables de la toma de deci
 
 ## Agenda ejercicios Google Earth y Google Earth Engine
 
-| Día taller | Tema                                             | Fecha      | 
-|:----------------|:----------------------------------------------------|:---------------|
-| 1               | Exploring National Biodiversity Data in GEE         | July 21 2026  |   
-| 2               | Ecosystem Change Detection                      | July 22 2026   |  
-| 3               | Carbon Biomass Baselines using embedding.| July 23 2026  | 
+## Día 2 — 19 de noviembre
 
+### Google Earth Web [Sin código]
+
+**Moderadores:** Sylvia Wilson, Paul Berkowitz  
+**Capacitadores:** Paula Paz, Manuel Custodio
+
+| Horario | Sesión | Presenta |
+|---------|--------|----------|
+| 13:00–14:00 | Ejercicio en Google Earth: Análisis de paisaje y detección de cambios | Paula |
+| 14:00–15:00 | Ejercicio guiado en Google Earth: Mapeo de cobertura del suelo y ecosistemas a lo largo del tiempo | Paula |
+| 15:00–15:30 | ☕ Pausa para el café | |
+| 15:30–16:30 | Práctica por país o paisaje con apoyo de los capacitadores. Integración de datos propios (datos de campo, shapefile) en Google Earth | |
+
+---
+
+## Día 3 — 20 de noviembre
+
+### Google Earth Engine: Introducción y primeros scripts
+
+**Moderadores:** Paul Berkowitz, Sylvia Wilson  
+**Capacitadores:** Manuel Custodio, Paula Paz
+
+| Horario | Sesión | Materiales |
+|---------|--------|------------|
+| 09:00–10:00 | Ejercicio introductorio de GEE: Búsqueda, carga, filtrado y visualización de imágenes | Scripts 0–3 |
+| 10:00–10:30 | ☕ Pausa para el café | |
+| 10:30–12:00 | Práctica por país o paisaje | `Merge`<br>`05_Representativeness_AP_Ecoregions`<br>`06_Stock_Carbon_Loss`<br>⭐ *Crédito extra:* Integridad ecosistémica en Google Earth Engine |
+| 12:00–14:00 | 🍽️ Almuerzo | |
 
 ## Repositorio
-[https://code.earthengine.google.com/?accept_repo=users/paulapaz1101/biodiversity_workshop](https://code.earthengine.google.com/?accept_repo=users/paulapaz1101/biodiversity_workshop)
+[https://code.earthengine.google.com/?accept_repo=users/paulapaz1101/biodiversity_and_ecosystem_workshop](https://code.earthengine.google.com/?accept_repo=users/paulapaz1101/biodiversity_and_ecosystem_workshop)
 
 ## Presentación
 [Scripts exploratorios para la Biodiversidad Regional en GEE](https://docs.google.com/presentation/d/1RsbimVSiEG6QwWCJ5zU3ipPkDqcdsSSk/edit?usp=sharing&ouid=102108997537890089824&rtpof=true&sd=true)
