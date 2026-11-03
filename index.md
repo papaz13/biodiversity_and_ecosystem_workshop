@@ -16,7 +16,7 @@ Desarrollar las capacidades de actores locales y responsables de la toma de deci
 
 ## Agenda ejercicios Google Earth y Google Earth Engine
 
-## Día 2 — 19 de noviembre
+## Día 2 - 19 de noviembre
 
 ### Google Earth Web [Sin código]
 
@@ -31,7 +31,7 @@ Desarrollar las capacidades de actores locales y responsables de la toma de deci
 
 ---
 
-## Día 3 — 20 de noviembre
+## Día 3 - 20 de noviembre
 
 ### Google Earth Engine: Introducción y primeros scripts
 
