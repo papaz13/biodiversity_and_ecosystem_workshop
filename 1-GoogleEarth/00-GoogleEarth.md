@@ -18,7 +18,7 @@ Navegar en la interfaz de Google Earth en la web (GE) y aprender a almacenar, im
 
 # Google Earth Web: Fundamentos
 
-📑 Presentaciones completa:[RedLAC - Google Earth Workshop]https://drive.google.com/drive/folders/1zvnnG_KTXnrqdrNK4TtIKL1bTmD3iXEV?usp=sharing)  
+📑 Presentaciones completa:[RedLAC - Google Earth Workshop](https://drive.google.com/drive/folders/1zvnnG_KTXnrqdrNK4TtIKL1bTmD3iXEV?usp=sharing)  
 ---
 
 ## Almacenar
