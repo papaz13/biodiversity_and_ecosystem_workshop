@@ -325,4 +325,4 @@ Export.image.toAsset({
 
 
 ## Script "`00_Intro_GEE`":
-https://code.earthengine.google.com/?scriptPath=users%2Fpaulapaz1101%2Fbiodiversity_and_ecosystem_workshop%3ALima_Nov_2026%2F00_Introduccion
+(https://code.earthengine.google.com/?scriptPath=users%2Fpaulapaz1101%2Fbiodiversity_and_ecosystem_workshop%3ALima_Nov_2026%2F00_Introduccion)
