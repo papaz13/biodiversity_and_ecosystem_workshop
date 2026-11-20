@@ -369,5 +369,8 @@ if (CALCULAR_PAIS) {
 - **Distancia entre geometrías:** la medición de aislamiento usa distancias entre bordes de polígonos de la WDPA, que no siempre coinciden con el límite oficial nacional; contrastar antes de reportar.
 - **Fuente comunitaria:** el gHM depende de un catálogo comunitario; documentar la versión usada (v3, Theobald et al. 2025) en cualquier reporte.
 
-## Script "`A3_Aislamiento_Conectividad`":
+## Script "`A3_Aislamiento_Conectividad GEE`":
 https://code.earthengine.google.com/?scriptPath=users%2Fpaulapaz1101%2Fbiodiversity_and_ecosystem_workshop%3ALima_Nov_2026%2FA3_Aislamiento_Conectividad
+
+## Script "`A3_Aislamiento_Conectividad Colab`":
+https://colab.research.google.com/drive/1va_x9d0K_ECXdREUCPDXk86_dtcvDSZj?usp=sharing
