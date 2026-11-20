@@ -148,4 +148,4 @@ lulc.getMapId(visParams, function(mapId) {
 
 ## Script "`MapBiomas_LULC`":
 
-[https://code.earthengine.google.com/?scriptPath=users%2FSU-USUARIO%2FSU-REPOSITORIO%3AMapBiomas_LULC](https://code.earthengine.google.com/?scriptPath=users%2FSU-USUARIO%2FSU-REPOSITORIO%3AMapBiomas_LULC)
+[https://code.earthengine.google.com/efba708f0042ccef51fc4b50349e7fbc](https://code.earthengine.google.com/efba708f0042ccef51fc4b50349e7fbc)
