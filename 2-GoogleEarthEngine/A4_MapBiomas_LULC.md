@@ -1,6 +1,6 @@
 ---
 layout: page
-title: A4_MapBiomas
+title: A4_MapBiomas_LULC
 parent: "01-GoogleEarthEngine"
 nav_order: 5
 ---
