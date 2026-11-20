@@ -12,7 +12,7 @@ Usar las nuevas herramientas **Detect Change** y **Classify** de Google Earth en
 
 📑 Presentación completa: [RedLAC - Google Earth Workshop #2](https://docs.google.com/presentation/d/1yWrpiWDF0723hjX611RNPhCl4P3pw2LDIcK-FbmkHhM/edit?usp=sharing)  
 📂 Datos del taller (.shp / .kml): [Carpeta de datos](https://drive.google.com/drive/folders/1lnqEQvlJ2ETWOVK590MaZWmuWKMZDm5V?usp=sharing)  
-*Material: Tanya Birch y Paula Paz, RedLAC Workshop 2026*
+*Material: Joel Conkling y Paula Paz, RedLAC Workshop 2026*
 
 | Ejercicio | Área de estudio | Tema |
 |---|---|---|
