@@ -50,5 +50,5 @@ var lulc = ee.ImageCollection(ASSET)
 //
 
 ## Script "`LandCover_MapBiomas`":
-https://code.earthengine.google.com/00c235ba1bc4bcb5870c3f4e7220e860
+https://code.earthengine.google.com/efba708f0042ccef51fc4b50349e7fbc
 
